@@ -1,0 +1,6 @@
+D:\Software development\C Sharp Practice\Termin8SvetskoPrvenstvo\Termin8SvetskoPrvenstvo\bin\Debug\Termin8SvetskoPrvenstvo.exe.config
+D:\Software development\C Sharp Practice\Termin8SvetskoPrvenstvo\Termin8SvetskoPrvenstvo\bin\Debug\Termin8SvetskoPrvenstvo.exe
+D:\Software development\C Sharp Practice\Termin8SvetskoPrvenstvo\Termin8SvetskoPrvenstvo\bin\Debug\Termin8SvetskoPrvenstvo.pdb
+D:\Software development\C Sharp Practice\Termin8SvetskoPrvenstvo\Termin8SvetskoPrvenstvo\obj\Debug\Termin8SvetskoPrvenstvo.csprojAssemblyReference.cache
+D:\Software development\C Sharp Practice\Termin8SvetskoPrvenstvo\Termin8SvetskoPrvenstvo\obj\Debug\Termin8SvetskoPrvenstvo.exe
+D:\Software development\C Sharp Practice\Termin8SvetskoPrvenstvo\Termin8SvetskoPrvenstvo\obj\Debug\Termin8SvetskoPrvenstvo.pdb
